@@ -14,7 +14,7 @@
 
 ![](https://s2.ax1x.com/2019/12/29/lKFurQ.png)
 
-> 本项目Github地址（暂为Private）：https://github.com/hanbings/NanoOS 
+> 本项目Github地址：https://github.com/hanbings/NanoOS 
 
 | 函数名     | 原型                                                         |
 | ---------- | ------------------------------------------------------------ |
